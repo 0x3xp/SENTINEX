@@ -1,6 +1,6 @@
 # SENTINEX
 
-SENTINEX is a stealth-focused Windows reconnaissance framework built for red team operations, adversary simulation, and security awareness training.
+SENTINEX is a stealth-focused Windows reconnaissance framework built for red team operations, adversary simulation, and security awareness training written in C.
 
 ## Features
 - Low-noise operator shell
