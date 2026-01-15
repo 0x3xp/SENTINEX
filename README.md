@@ -15,6 +15,8 @@ SENTINEX is a stealth-focused Windows reconnaissance framework built for red tea
 ## Usage
 Run the executable and type `help` to list available modules.
 
+![SENTINEX Logo]("images/sentinex (1).png")
+
 ## Download
 Precompiled binaries are available under the GitHub Releases section.
 
